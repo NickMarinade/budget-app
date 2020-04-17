@@ -19,7 +19,7 @@ class budget {
         else {
             this.budgetAmount.textContent = value;
             this.budgetInput.value = '';
-            this.showBalance();
+            balanc.showBalance();
         }
     }
 }

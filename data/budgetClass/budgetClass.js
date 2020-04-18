@@ -3,6 +3,7 @@ class budget {
         this.budgetFeedback = document.querySelector(".budget-feedback");
         this.budgetInput = document.getElementById("budget-input");
         this.budgetAmount = document.getElementById("budget-amount");
+        this.budgetForm = document.getElementById("budget-form");
     }
 
     // submit budget method
